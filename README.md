@@ -6,7 +6,7 @@
   
 In this repository, we implement certain improvements to the vanilla FedAvg algorithm based on this paper: https://arxiv.org/abs/1806.00582
 
-The full report of the experiments performed and the outputs seen can be found in the report in the repository.
+The full report of the experiments performed, and the outputs seen can be found in the report in the repository.
 </p>
 
   
@@ -17,3 +17,7 @@ Technologies used in the project:
 
 *   Python
 *   PyTorch
+
+<p>
+  Completed as part of CSE291 Exploratory project in IIT BHU
+</p>
